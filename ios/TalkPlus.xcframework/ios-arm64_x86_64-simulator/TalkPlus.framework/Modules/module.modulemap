@@ -1,0 +1,4 @@
+framework module TalkPlus {
+    umbrella header "frmTalkPlus.h"
+    export *
+}
